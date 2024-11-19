@@ -15,7 +15,22 @@ This repository is developed on Linux kernel v5.15.0. We've also integrated [RAI
 Please consider citing our paper at SOSP 2024 if you use BIZA. The BibTex is shown below: 
 
 ```latex
-Coming soon...
+@inproceedings{10.1145/3694715.3695953,
+author = {Yi, Shushu and Sun, Shaocong and Peng, Li and Sun, Yingbo and Yang, Ming-Chang and Cao, Zhichao and Li, Qiao and Jung, Myoungsoo and Zhou, Ke and Zhang, Jie},
+title = {BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance},
+year = {2024},
+isbn = {9798400712517},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3694715.3695953},
+doi = {10.1145/3694715.3695953},
+booktitle = {Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles},
+pages = {313–329},
+numpages = {17},
+keywords = {zoned namespace, all-flash array, solid state drive, zone random write area, garbage collection},
+location = {Austin, TX, USA},
+series = {SOSP '24}
+}
 ```
 
 
